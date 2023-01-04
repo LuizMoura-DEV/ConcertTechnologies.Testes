@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yuygp1fGVnLBYhs06G0YYtxiXliUIsqvRPQGCXFEdF66ObIfY+HvS9d4N6j753+dR1qMojepvXUBGxFeqflY2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ProjetoConcertTechnologies\\Selenium.Utils\\Selenium.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luiz Moura\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Luiz Moura\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

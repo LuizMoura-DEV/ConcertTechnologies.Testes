@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\ConversorDistancias.Testes\\ConversorDistancias.Testes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\ConversorDistancias.Testes\\ConversorDistancias.Testes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\ConversorDistancias.Testes\\ConversorDistancias.Testes.csproj",
+        "projectName": "ConversorDistancias.Testes",
+        "projectPath": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\ConversorDistancias.Testes\\ConversorDistancias.Testes.csproj",
+        "packagesPath": "C:\\Users\\Luiz Moura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\ConversorDistancias.Testes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luiz Moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\Selenium.Utils\\Selenium.Utils.csproj": {
+                "projectPath": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\Selenium.Utils\\Selenium.Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\Selenium.Utils\\Selenium.Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\Selenium.Utils\\Selenium.Utils.csproj",
+        "projectName": "Selenium.Utils",
+        "projectPath": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\Selenium.Utils\\Selenium.Utils.csproj",
+        "packagesPath": "C:\\Users\\Luiz Moura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luiz Moura\\Desktop\\Selenium-DotNetCore2-Headless-master\\ExemploSelenium\\Selenium.Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Luiz Moura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
