@@ -2,7 +2,7 @@
 
 ##Avaliação usabilidade
 
-A interface em sim é bem simples e intuitiva, mas talvez essa simplicidade toda possa tambem ser um problema para determinados usuarios (em questão de encontrar os elementos) os botão de pesquisa mesmo poderia ver visalmente diferente para facilitar distinguir (até porque muitas vezes itilizamos dee cores ou icones para ajudar alguem. "-Clica no botão azul", "-Clica na lupinha"), o icone de lupa pode gerar uma pequana confusão, podendo ser confundido com o botão real responsavel por executar a pesquisa. Informações com ose você esta ou não logadopoderiam ficar um pouco mais evidentes
+A interface em sim é bem simples e intuitiva, mas talvez essa simplicidade toda possa tambem ser um problema para determinados usuarios (em questão de encontrar os elementos) os botão de pesquisa mesmo poderia ver visalmente diferente para facilitar distinguir (até porque muitas vezes itilizamos dee cores ou icones para ajudar alguem. "-Clica no botão azul", "-Clica na lupinha"), o icone de lupa pode gerar uma pequana confusão, podendo ser confundido com o botão real responsavel por executar a pesquisa. Informações com ose você esta ou não logadopoderiam ficar um pouco mais evidentes, o mesmo acontece para o botão que abilita o teclado virtual e a função de pesquisa utilizando imagem, fazendo assim com que eles sejão poucos explorados.
 
 ### Estrutura do Projeto
 
