@@ -1,5 +1,9 @@
 # ConcertTechnologies.Testes
 
+##Avaliação usabilidade
+
+A interface em sim é bem simples e intuitiva, mas talvez essa simplicidade toda possa tambem ser um problema para determinados usuarios (em questão de encontrar os elementos) os botão de pesquisa mesmo poderia ver visalmente diferente para facilitar distinguir (até porque muitas vezes itilizamos dee cores ou icones para ajudar alguem. "-Clica no botão azul", "-Clica na lupinha"), o icone de lupa pode gerar uma pequana confusão, podendo ser confundido com o botão real responsavel por executar a pesquisa. Informações com ose você esta ou não logadopoderiam ficar um pouco mais evidentes
+
 ### Estrutura do Projeto
 
 ![image](https://user-images.githubusercontent.com/22231446/210656129-b69963c9-a661-401d-ae60-b7daa3a25d6e.png)
